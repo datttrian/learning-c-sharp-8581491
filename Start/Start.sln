@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional-switch", "Progr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "Program Flow\ForLoops\ForLoops.csproj", "{0DCA2E20-C768-45F6-9DFC-56F2385838FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "Program Flow\WhileLoops\WhileLoops.csproj", "{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{0DCA2E20-C768-45F6-9DFC-56F2385838FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DCA2E20-C768-45F6-9DFC-56F2385838FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DCA2E20-C768-45F6-9DFC-56F2385838FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +73,6 @@ Global
 		{4B45BE1F-6774-4B22-9814-CD547191346E} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{964DA75D-C420-42CC-BBED-B02082AA5310} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{0DCA2E20-C768-45F6-9DFC-56F2385838FE} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
+		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 	EndGlobalSection
 EndGlobal
