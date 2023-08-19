@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Functions\Basics\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultParams", "Functions\DefaultParams\DefaultParams.csproj", "{94F9C925-5E65-44C2-8F73-AF140DBD1EA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOutParams", "Functions\RefAndOutParams\RefAndOutParams.csproj", "{3560699F-DD7F-4BA2-9DF9-FBCAB8577163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{94F9C925-5E65-44C2-8F73-AF140DBD1EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F9C925-5E65-44C2-8F73-AF140DBD1EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F9C925-5E65-44C2-8F73-AF140DBD1EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,5 +154,6 @@ Global
 		{0139C30E-D7C6-4431-B601-34E1A2024EE6} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 		{A709586A-F9BB-4313-8A2E-3582C12F85F5} = {8F207D4C-A234-4186-9A98-7037497557A1}
 		{94F9C925-5E65-44C2-8F73-AF140DBD1EA0} = {8F207D4C-A234-4186-9A98-7037497557A1}
+		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163} = {8F207D4C-A234-4186-9A98-7037497557A1}
 	EndGlobalSection
 EndGlobal
