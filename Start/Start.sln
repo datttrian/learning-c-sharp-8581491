@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "Program Flow\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "Program Flow\BreakContinue\BreakContinue.csproj", "{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Program Flow\Exceptions\Exceptions.csproj", "{BA721EFB-0D52-469D-BFC3-B183AF57C07F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,5 +87,6 @@ Global
 		{0DCA2E20-C768-45F6-9DFC-56F2385838FE} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
+		{BA721EFB-0D52-469D-BFC3-B183AF57C07F} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 	EndGlobalSection
 EndGlobal
