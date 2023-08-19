@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "Program Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Program Flow\Exceptions\Exceptions.csproj", "{BA721EFB-0D52-469D-BFC3-B183AF57C07F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{F4803762-6445-4159-B1B5-74DABA5C87D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Strings\Operations\Operations.csproj", "{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA721EFB-0D52-469D-BFC3-B183AF57C07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,5 +96,6 @@ Global
 		{18F4F924-FCD1-43D4-A9A7-EF9A12D35BBE} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{55985F15-BCA2-42FF-A5F1-25AFA58EE4F1} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{BA721EFB-0D52-469D-BFC3-B183AF57C07F} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
+		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 	EndGlobalSection
 EndGlobal
