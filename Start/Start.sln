@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOutParams", "Function
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiValues", "Functions\MultiValues\MultiValues.csproj", "{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgChallenge", "Functions\ProgChallenge\ProgChallenge.csproj", "{8B3C37C4-7EF5-475C-A591-A249FDF8D57A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,10 @@ Global
 		{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -162,5 +168,6 @@ Global
 		{94F9C925-5E65-44C2-8F73-AF140DBD1EA0} = {8F207D4C-A234-4186-9A98-7037497557A1}
 		{3560699F-DD7F-4BA2-9DF9-FBCAB8577163} = {8F207D4C-A234-4186-9A98-7037497557A1}
 		{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179} = {8F207D4C-A234-4186-9A98-7037497557A1}
+		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A} = {8F207D4C-A234-4186-9A98-7037497557A1}
 	EndGlobalSection
 EndGlobal
