@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsing", "Strings\Parsing\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgChallengeStart", "Strings\ProgChallengeStart\ProgChallengeStart.csproj", "{0139C30E-D7C6-4431-B601-34E1A2024EE6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{8F207D4C-A234-4186-9A98-7037497557A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Functions\Basics\Basics.csproj", "{A709586A-F9BB-4313-8A2E-3582C12F85F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,10 @@ Global
 		{0139C30E-D7C6-4431-B601-34E1A2024EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0139C30E-D7C6-4431-B601-34E1A2024EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0139C30E-D7C6-4431-B601-34E1A2024EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A709586A-F9BB-4313-8A2E-3582C12F85F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A709586A-F9BB-4313-8A2E-3582C12F85F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A709586A-F9BB-4313-8A2E-3582C12F85F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A709586A-F9BB-4313-8A2E-3582C12F85F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,5 +140,6 @@ Global
 		{39ECE61F-EEFF-446E-AB53-69EAC3B1BC27} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 		{A1D0E05A-8E49-4B35-9B22-101E4CAAFC78} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 		{0139C30E-D7C6-4431-B601-34E1A2024EE6} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
+		{A709586A-F9BB-4313-8A2E-3582C12F85F5} = {8F207D4C-A234-4186-9A98-7037497557A1}
 	EndGlobalSection
 EndGlobal
