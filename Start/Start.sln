@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Strings\Opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatting", "Strings\Formatting\Formatting.csproj", "{DA0CF37B-07D5-4FEE-A21C-A070113C9A23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Strings\Interpolation\Interpolation.csproj", "{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DA0CF37B-07D5-4FEE-A21C-A070113C9A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0CF37B-07D5-4FEE-A21C-A070113C9A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0CF37B-07D5-4FEE-A21C-A070113C9A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,5 +110,6 @@ Global
 		{BA721EFB-0D52-469D-BFC3-B183AF57C07F} = {F12515F8-0D43-4456-8AC1-2E9F055FA7EB}
 		{0CABC97F-4F34-44D9-BA56-F8C5443BA3FD} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 		{DA0CF37B-07D5-4FEE-A21C-A070113C9A23} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
+		{21CFD1D4-8D7F-4A3D-A529-F952DAAA9214} = {F4803762-6445-4159-B1B5-74DABA5C87D8}
 	EndGlobalSection
 EndGlobal
