@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifiers", "Classes\Modifi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Classes\Properties\Properties.csproj", "{BB70C17F-4B28-4172-BFD9-3383031D4BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Classes\Inheritance\Inheritance.csproj", "{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +165,10 @@ Global
 		{BB70C17F-4B28-4172-BFD9-3383031D4BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB70C17F-4B28-4172-BFD9-3383031D4BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB70C17F-4B28-4172-BFD9-3383031D4BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -192,5 +198,6 @@ Global
 		{2C3244D2-68D4-4B26-9AED-4AC085E94E6D} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 		{0D7590BD-C628-4490-B1AB-76BADF45AE1F} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 		{BB70C17F-4B28-4172-BFD9-3383031D4BD2} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
+		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 	EndGlobalSection
 EndGlobal
