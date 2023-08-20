@@ -57,6 +57,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{70D0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defining", "Classes\Defining\Defining.csproj", "{2C3244D2-68D4-4B26-9AED-4AC085E94E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifiers", "Classes\Modifiers\Modifiers.csproj", "{0D7590BD-C628-4490-B1AB-76BADF45AE1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{2C3244D2-68D4-4B26-9AED-4AC085E94E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C3244D2-68D4-4B26-9AED-4AC085E94E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C3244D2-68D4-4B26-9AED-4AC085E94E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7590BD-C628-4490-B1AB-76BADF45AE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7590BD-C628-4490-B1AB-76BADF45AE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7590BD-C628-4490-B1AB-76BADF45AE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7590BD-C628-4490-B1AB-76BADF45AE1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,5 +184,6 @@ Global
 		{3FFB54B8-0F9A-49A5-A68B-4F0FB9216179} = {8F207D4C-A234-4186-9A98-7037497557A1}
 		{8B3C37C4-7EF5-475C-A591-A249FDF8D57A} = {8F207D4C-A234-4186-9A98-7037497557A1}
 		{2C3244D2-68D4-4B26-9AED-4AC085E94E6D} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
+		{0D7590BD-C628-4490-B1AB-76BADF45AE1F} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 	EndGlobalSection
 EndGlobal
