@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Classes\Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringRep", "Classes\StringRep\StringRep.csproj", "{B4B11F70-3F54-4FBF-B361-16626DF983B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgChallenge", "Classes\ProgChallenge\ProgChallenge.csproj", "{2DE85D95-427F-4306-BB9F-54EC279DA4B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{B4B11F70-3F54-4FBF-B361-16626DF983B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B11F70-3F54-4FBF-B361-16626DF983B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B11F70-3F54-4FBF-B361-16626DF983B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE85D95-427F-4306-BB9F-54EC279DA4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE85D95-427F-4306-BB9F-54EC279DA4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE85D95-427F-4306-BB9F-54EC279DA4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE85D95-427F-4306-BB9F-54EC279DA4B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -206,5 +212,6 @@ Global
 		{BB70C17F-4B28-4172-BFD9-3383031D4BD2} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 		{ECB7504D-E17E-4DFB-9CC0-65400DB9AF34} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 		{B4B11F70-3F54-4FBF-B361-16626DF983B9} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
+		{2DE85D95-427F-4306-BB9F-54EC279DA4B3} = {70D0E2F3-5ADC-43A8-B7B4-65ACB5BF19F7}
 	EndGlobalSection
 EndGlobal
